@@ -13,4 +13,4 @@ if (media>= 70) {
     result = "reprovado"
 }
 
-console.log ("O aluno" +aluno+ "tem a media" + media + "esta;" + result);
+console.log (" O aluno " +aluno+ " tem a media " + media + " esta; " + result);
